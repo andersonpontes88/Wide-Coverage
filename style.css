@@ -88,7 +88,7 @@ p {
         width: 312px;
         height: 288px;
         position: relative;
-        top: 40vh;
+        top: 35vh;
     }
 
     .button-header {
@@ -127,7 +127,7 @@ p {
 
     section {
         position: fixed;
-        margin-top: -300px;
+        margin-top: -370px;
         display: block;
     }
 }
