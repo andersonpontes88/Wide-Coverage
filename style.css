@@ -47,7 +47,7 @@ header {
 
 section {
     display: inline-block;
-  
+  margin-left: 60px;
     width: 493px;
 }
 
