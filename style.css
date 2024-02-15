@@ -8,7 +8,7 @@
 .logo-img1 {
     width: 595px;
     height: 495px;
-    margin-left: 121px;
+    margin-left: 50px;
     margin-top: 163px;
     display: inline-block;
 }
@@ -47,7 +47,7 @@ header {
 
 section {
     display: inline-block;
-    margin-left: 85px;
+  
     width: 493px;
 }
 
@@ -78,12 +78,6 @@ p {
     color: #4B505A;
 }
 
-div {
-    width: 250px;
-    height: 250px;
-    background: rgb(206, 11, 11);
-}
-
 
 @media screen and (max-width: 610px) {
     .link {
@@ -94,15 +88,15 @@ div {
         width: 312px;
         height: 288px;
         position: relative;
-        top: 45vh;
+        top: 40vh;
     }
 
     .button-header {
-        width: 110px;
-        height: 40px;
+        width: 90px;
+        height: 30px;
         display: inline-block;
-        margin-left: 395px;
-        font-size: 15px;
+        margin-left: 230px;
+        font-size: 12px;
     }
 
     h1 {
@@ -132,7 +126,7 @@ div {
     }
 
     section {
-        position: relative;
+        position: fixed;
         margin-top: -300px;
         display: block;
     }
